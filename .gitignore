@@ -1,0 +1,11 @@
+.venv/
+student_resource/
+dataset/
+*.pdf
+models/
+*.model
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+__MACOSX/
+output/
